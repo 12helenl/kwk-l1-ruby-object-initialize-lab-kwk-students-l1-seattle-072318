@@ -10,3 +10,6 @@ class Person
     @name = new_name
   end
 end
+
+beyonce = Person.new("Beyonce")
+puts beyonce.name= "Beyonce"
